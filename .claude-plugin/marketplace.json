@@ -1,0 +1,15 @@
+{
+  "name": "smartopslayer",
+  "description": "Plugins do SmartOpsLayer (SOL) para Claude.",
+  "owner": {
+    "name": "SmartOpsLayer",
+    "url": "https://smartopslayer.com"
+  },
+  "plugins": [
+    {
+      "name": "sol",
+      "source": "./sol",
+      "description": "Converse com o SmartOpsLayer (SOL): liste os projetos de infraestrutura da sua organização, veja a situação de cada um e leia o código Terraform."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sol",
+  "displayName": "SmartOpsLayer (SOL)",
+  "version": "0.13.4",
+  "description": "Converse com o SmartOpsLayer (SOL) sem precisar entender MCP: liste os projetos de infraestrutura da sua organização, veja a situação de cada um, leia o código Terraform e veja o diagrama, crie projetos, peça mudanças de código ao AI Builder ou grave um arquivo direto, envie e traga código do GitHub, valide o código, estime o custo e revise boas práticas, rode o plan, peça a análise do plan pela IA e peça o deploy ou o destroy, com o link para a tela do projeto. Nada é aplicado na AWS sem a aprovação da pessoa na página do SOL.",
+  "author": {
+    "name": "SmartOpsLayer",
+    "url": "https://smartopslayer.com"
+  },
+  "homepage": "https://app.smartopslayer.com",
+  "keywords": [
+    "smartopslayer",
+    "sol",
+    "terraform",
+    "aws",
+    "infraestrutura"
+  ]
+}
